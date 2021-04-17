@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-react-jss",
+  "version": "0.0.1",
+  "description": "Eslint plugin for react-jss",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "react",
+    "react-jss"
+  ],
+  "main": "lib/index.js",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
