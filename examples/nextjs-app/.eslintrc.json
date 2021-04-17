@@ -1,0 +1,14 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "requireConfigFile": false,
+    "sourceType": "module",
+    "babelOptions": {
+      "presets": ["next/babel"]
+    }
+  },
+  "plugins": ["react-jss"],
+  "rules": {
+    "react-jss/prefer-object": "warn"
+  }
+}
