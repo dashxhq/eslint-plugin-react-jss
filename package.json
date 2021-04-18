@@ -1,7 +1,11 @@
 {
   "name": "eslint-plugin-react-jss",
   "version": "0.0.1",
-  "description": "Eslint plugin for react-jss",
+  "description": "ESLint plugin for react-jss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dashxhq/eslint-plugin-react-jss.git"
+  },
   "keywords": [
     "eslint",
     "eslint-plugin",
