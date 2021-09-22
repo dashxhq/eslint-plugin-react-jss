@@ -1,4 +1,8 @@
 # ESLint plugin for React JSS
+<a href="https://www.npmjs.com/package/eslint-plugin-react-jss"><img src="https://img.shields.io/npm/dm/eslint-plugin-react-jss" /></a>
+<a href="https://www.npmjs.com/package/eslint-plugin-react-jss"><img src="https://img.shields.io/npm/v/eslint-plugin-react-jss" /></a>
+<a href="https://www.npmjs.com/package/eslint-plugin-react-jss"><img src="https://img.shields.io/github/license/afzalsayed96/babel-plugin-transform-stitches-display-name" /></a>
+</p>
 
 React JSS specific linting rules for ESLint.
 
